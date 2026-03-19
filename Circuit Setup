@@ -1,0 +1,1 @@
+Connect the LCD I2C display to your Waheshare ESP32-S3 NXR8 board, then connect the wires, resistors, and LEDs to the circuit board (follow the "Pins to which the LEDs are connected" instructions).
